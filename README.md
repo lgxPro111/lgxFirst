@@ -1,0 +1,2 @@
+# lgxFirst
+github first program
